@@ -29,7 +29,7 @@ If you are to design a 2-column based page with left navigation pane and center 
 #### CSS Frameworks
 This is where CSS Frameworks such as [Bootstrap](http://getbootstrap.com/) and [Materialize](http://materializecss.com/) come in. These frameworks provide a grid functionality that lets to divide each section of your webpage into 12 columns, which you can order to design. 
 
-<!-- Examples needed  -->
+[!Grid Example](https://i.imgur.com/JCATxB2.png)
 
 ### HTML Semantic Elements
 Websites often display content in multiple columns (like a magazine or newspaper).
