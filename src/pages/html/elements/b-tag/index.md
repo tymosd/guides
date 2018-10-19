@@ -3,7 +3,7 @@ title: B Tag
 ---
 ## B Tag
 
-The `<b>` tag is used to make the text placed between the tags as Bold. This tag does a job very similar to that of a '<strong>' tag.
+The `<b>` tag is used to make the text placed between the tags as Bold. This tag does a job very similar to that of a `<strong>` tag.
 Here is an example on how to use them.
 
 `<b>I am bold text </b>`
