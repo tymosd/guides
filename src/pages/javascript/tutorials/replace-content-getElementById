@@ -1,0 +1,28 @@
+---
+title: Replace HTML Content on Click
+---
+
+# Create an HTML Doc
+
+JavaScript can replace any content that has an ID or a Class.
+```html
+    <div id="test">
+    Some Text
+    </div>
+```
+
+Time for our JavaScript! Use document.getElementbyId to access the Id named "test". Then enter in innerHTML to replace the HTML within that specific Id. You can also use document.getElementByClassName to access a class. Pay attention to capitalization(camelCase) - it's important for your script to execute.
+```js
+    document.getElementById("test").innerHTML = "Hello New Text!"
+```
+
+Here's how it all works together.
+```html
+<div id="test">
+Some Text
+</div>
+
+<script>
+document.getElementById("test").innerHTML = "Hello New Text!";
+</script>
+```
