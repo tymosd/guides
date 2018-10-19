@@ -3,9 +3,13 @@ title: How to Use Links
 ---
 ## How to Use Links
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/html/tutorials/how-to-use-links/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+You can create links in your HTML page by creating an <a> element. Here's an example:
+  
+ ```html
+<a href="https://www.google.com">Link to Google</a>
+```
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
+It's common to embed the <a> element into other elements and style them accordingly. It's also possible to style the <a> elements itself and turn it into a button by adding padding, or a circle using styling as you like.
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
 
